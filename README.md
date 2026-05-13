@@ -11,13 +11,13 @@ Each task demonstrates a real-world application, starting from data exploration 
 ```
 ai-ml-internship/
 ├── Task1_Data Exploration
-│ ├── Task 1.ipynb
+│ ├── Code.ipynb
 │
 ├── Task2 Stocks Prices Prediction
-│ ├── Task 2.ipynb
+│ ├── Code.ipynb
 |
 ├── Task3 Heart Disease
-│ ├── Task 3.ipynb
+│ ├── Code.ipynb
 │
 ├── README.md
 ```
